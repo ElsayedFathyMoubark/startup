@@ -1,0 +1,2 @@
+# startup
+modern business Bootstrap template designed specifically for startup, apps and IT services. You will be able to showcase your content on mobile devices such as smartphones, tablets and all types of devices. Driven by minimalist and unique sections. With this template pixel-perfect layout and neat sectioning, it will help you create a professional-looking website for your business in no time.
